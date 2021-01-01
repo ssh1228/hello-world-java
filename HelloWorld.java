@@ -42,5 +42,7 @@ public class HelloWorld {
    System.out.println("Hello, candys");
    System.out.println("Hello, candys");
    System.out.println("Hello, project completed");
+   System.out.println("Hello, project completed");
+   System.out.println("Hello, project completed");
   }
 }
